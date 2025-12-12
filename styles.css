@@ -21,6 +21,9 @@ You will find this is far easier than the opposite task of using CSS to cram you
     box-sizing: border-box;
 }
 
+body {
+  background-color: #F8FBFF;
+}
 
 body,
 html {
